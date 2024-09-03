@@ -1,0 +1,31 @@
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+}
+.section {
+    margin-bottom: 40px;
+}
+.section h2 {
+    color: #333;
+}
+.section p {
+    margin: 10px 0;
+}
+.nav-buttons {
+    margin-bottom: 20px;
+}
+.nav-buttons button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.nav-buttons button:hover {
+    background-color: #0056b3;
+}
+</style>
